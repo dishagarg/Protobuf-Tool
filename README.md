@@ -7,7 +7,7 @@
 # Installation
 
 ```python
-pip install git+https://github.com/redbrickmedia/rbm-protobuf-tool.git
+pip install git+https://github.com/dishagarg/Protobuf-Tool.git
 ```
 Then, just pip install the .whl file in the `pbtool/pbtool_gui/wheels` directory.
 
